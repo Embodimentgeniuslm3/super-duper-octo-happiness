@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/Bitmoji/GLTFUtility
+	branch = master
+	commit = 99f2715c55fc17c30455dfa2864762817d9a52c2
+	parent = 7737df5d634a8542ba76804f012444c074d213fc
+	method = merge
+	cmdver = 0.4.3
